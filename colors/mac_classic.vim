@@ -43,7 +43,8 @@ let g:colors_name = "mac_classic"
 " }}}
 
 " GUI: {{{1
-hi Cursor  guifg=#FFFFFF ctermfg=15 guibg=#3C4C72 ctermbg=240
+hi Cursor  guifg=#C6DEFF ctermfg=15 guibg=#3C4C72 ctermbg=240
+" hi Cursor  guifg=#FFFFFF ctermfg=15 guibg=#3C4C72 ctermbg=240
 hi Visual  guibg=#C6DEFF ctermbg=189
 hi CursorLine  guibg=#F5F5F5 ctermbg=15
 " hi CursorLine  guibg=#F0F6FF E1DFE1 ctermbg=15
